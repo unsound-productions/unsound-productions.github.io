@@ -1,0 +1,23 @@
+---
+layout: artist
+title:  "Trinity"
+categories: artist
+images:
+- trinity-1.jpg
+video:
+- <iframe src="//player.vimeo.com/video/50906330?title=0&amp;byline=0&amp;portrait=0&amp;color=ff555d" width="212" height="119" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+page: www.lustmord.com
+page-link: http://www.lustmord.com/
+---
+
+###Trinity
+
+**TRINITY** began life as a collaboration between Lustmord and Biosphere with Berlin video artist Marcel Weber (MFO). 
+
+The project explores, in sound and visuals, the first tests of nuclear weapons in the New Mexico desert. In order to create this work, the artists travelled to the White Sands Missile Range and Los Alamos to research and make field recordings at the start of 2012. Jon Pareles of The New York Times wrote of the premiere performance at Unsound Festival New York: "… enveloping, murky, ultra-slow-motion music. 'Trinity' filled the room with tectonic rumbles and gradual whooshes, with tolling crashes followed by silences, with air-raid sirens, with claustrophobically thick cluster chords that were sometimes electronic and sometimes orchestral." The work was subsequently presented at Communikey Festival (Boulder), MUTEK (Montreal), Unsound Krakow and Sonic Arts (Amsterdam).
+
+In March 2013, **TRINITY** was presented by Lustmord and MFO at Adelaide Festival. The Guardian reviewed the show by writing: "Drones resonated across the venue, interrupted by shards of noise and fragments of melody, this time to images of desert lanscapes where the US military have tested nuclear weapons. It was bleak. But beautiful."
+
+**TRINITY** continues to exist as a Lustmord project, in collaboration with MFO.
+
+

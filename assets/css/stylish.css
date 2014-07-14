@@ -6319,7 +6319,7 @@ ul {
   border-color: transparent;
 }
 .header .navbar-default .navbar-nav > li > a {
-  color: #e6e6e6;
+  color: #c8c8c8;
 }
 .header .navbar-nav > li > a {
   padding-top: 9px;
@@ -6355,10 +6355,24 @@ ul {
   color: #FFFFFF;
   background-color: rgba(120, 120, 120, 0.35);
 }
+.header .dropdown-menu {
+  background-color: rgba(30, 30, 30, 0.85);
+  border: 0px solid #cccccc;
+  border: 0px solid rgba(0, 0, 0, 0.15);
+  border-radius: 0px;
+}
+.header .dropdown-menu > li > a {
+  padding: 7px 20px;
+  color: #c8c8c8;
+  font-size: 11.5px;
+}
+.header .dropdown-menu > li > a:hover {
+  color: #333;
+}
 .artist-text h3 {
   text-transform: uppercase;
   margin-top: 0px;
-  color: #FFF;
+  color: #e6e6e6;
   letter-spacing: 3px;
   background: rgba(30, 30, 30, 0.85);
   padding: 10px 20px;
@@ -6386,6 +6400,7 @@ ul {
   color: #FFF;
 }
 .past-dates {
+  margin-bottom: 10px;
   padding: 10px 20px;
   background: #FFFFFF;
 }

@@ -1,16 +1,18 @@
 .artist-text {
 
-		h3 {
+		h3, h4, h5 {
 			text-transform: uppercase;
 			margin-top: 0px;
-			color: @light-light-grey;
-			letter-spacing: 3px;
-			background: @black;
+			color: @pink;
+			letter-spacing: 1px;
+			background: #FFFFFF;
 			padding: 10px 20px;
 			margin-bottom: 10px;
 			font-weight: 700;
 
 		}
+
+
 
 		p {
 			padding: 10px 20px;
@@ -20,12 +22,9 @@
 		}
 
 		hr {
-			border: 1px solid @light-light-grey;
+			border: 1px solid #FFFFFF;
+			margin: 20px 0px;
 		}
-
-		
-
-		
 
 
 }
@@ -36,13 +35,14 @@
 
 	a {
 		padding: 10px 20px;
-		background: #FFFFFF;
+		background: @pink;
 		display: inline-block;
+		color: #FFF;
 			}
 
 	a:hover {
-		background: @pink;
-		color: #FFF;
+		background: #FFFFFF;
+		color: @dark-grey;
 	}
 }
 
@@ -57,11 +57,33 @@
 			text-transform: uppercase;
 		font-weight: 700;
 		letter-spacing: 2px;
-				color: @black;
+				color: @pink;
 		}
 
 		li {
 			margin-bottom: 5px;
 		}
 
+}
+
+.video {
+		position: relative;
+	    padding-bottom: 56.25%;
+	    padding-top: 35px;
+	    height: 0;
+	    overflow: hidden;
+	    margin-bottom: 10px;
+
+	}
+																			
+.video iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	}
+
+.soundcloud {
+	margin-bottom: 10px;
 }

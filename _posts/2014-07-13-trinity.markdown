@@ -3,11 +3,12 @@ layout: artist
 title:  "Trinity"
 categories: artist
 images:
-- trinity-1.jpg
+- trinity-banner.jpg
 video:
 - <iframe src="//player.vimeo.com/video/50906330?title=0&amp;byline=0&amp;portrait=0&amp;color=ff555d" width="212" height="119" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-page: www.lustmord.com
-page-link: http://www.lustmord.com/
+soundcloud:
+- <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145512564&amp;color=ff555d&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false"></iframe>
+press-kit: bogus.zip 
 past-dates:
 - Adelaide Arts Festival - 14 March 2013
 - Sonic Arts Festival, Amsterdam - 23 Feb 2013
@@ -27,4 +28,4 @@ In March 2013, **TRINITY** was presented by Lustmord and MFO at Adelaide Festiva
 
 **TRINITY** continues to exist as a Lustmord project, in collaboration with MFO.
 
-[Press Kit](#zip)
+[www.lustmord.com](http://www.lustmord.com/)

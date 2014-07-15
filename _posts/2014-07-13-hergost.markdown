@@ -15,6 +15,10 @@ past-dates:
 - Berlin, Apocalypse Now (and Then), Hau 2 - May 3, 2012 
 - Prague, Lunchmeat Festival - March 21, 2012
 - Krakow. Unsound Festival - October 14, 2011
+gallery:
+- hergost-1
+- hergost-2
+- hergost-3
 ---
 
 ###HER GHOST

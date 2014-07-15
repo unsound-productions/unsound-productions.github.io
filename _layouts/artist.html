@@ -19,12 +19,17 @@ layout: default
 
 			<div class="col-lg-4 col-lg-offset-1">
 									<div class="artist-button"><a href="#">Book {{ page.title }}</a></div>
+													<div class="artist-button"><a href="/downloads/press-kit/{{ press-kit.page }}" target="_blank">Download press-kit</a></div>
+
 				{% if page.video != null %}
 				<div class='video'>{{ page.video[0] }}</div>
 				{% endif %}
 				{% if page.soundcloud != null %}
 				<div class='soundcloud'>{{ page.soundcloud[0] }}</div>
 				{% endif %}
+
+				
+	<div class="clearfix"></div>
 
 					<div class="past-dates">
 						<h5>past dates</h5>
@@ -36,7 +41,6 @@ layout: default
 
 				</div>
 
-				<div class="artist-button"><a href="/downloads/press-kit/{{ press-kit.page }}" target="_blank">Download press-kit</a></div>
 
 
 					
@@ -49,4 +53,6 @@ layout: default
 
 	</div>
 </div>
+
+
 

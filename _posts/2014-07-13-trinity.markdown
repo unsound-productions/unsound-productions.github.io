@@ -8,6 +8,13 @@ video:
 - <iframe src="//player.vimeo.com/video/50906330?title=0&amp;byline=0&amp;portrait=0&amp;color=ff555d" width="212" height="119" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 page: www.lustmord.com
 page-link: http://www.lustmord.com/
+past-dates:
+- Adelaide Arts Festival - 14 March 2013
+- Sonic Arts Festival, Amsterdam - 23 Feb 2013
+- Unsound Festival Krakow - 19 Oct 2012
+- MUTEK Festival, Montreal - 20 May 2012
+- Communikey Festival, Boulder - 28 April 2012
+- Unsound Festival New York - 21 April 2012
 ---
 
 ###Trinity
@@ -20,4 +27,4 @@ In March 2013, **TRINITY** was presented by Lustmord and MFO at Adelaide Festiva
 
 **TRINITY** continues to exist as a Lustmord project, in collaboration with MFO.
 
-[press release](#zip)
+[Press Kit](#zip)

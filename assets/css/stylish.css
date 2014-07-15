@@ -6269,7 +6269,7 @@ body {
   font-family: 'Karla', sans-serif;
 }
 a {
-  color: #ff555d;
+  color: #6991ac;
   -webkit-transition: all 0.35s ease-out;
   -moz-transition: all 0.35s ease-out;
   -o-transition: all 0.35s ease-out;
@@ -6331,7 +6331,7 @@ h5 {
 .header .navbar-default .navbar-nav > li > a:hover,
 .header .navbar-default .navbar-nav > li > a:focus {
   color: #FFFFFF;
-  background-color: rgba(255, 85, 93, 0.85);
+  background-color: rgba(105, 145, 172, 0.45);
 }
 .header .logo {
   width: 140px;
@@ -6345,7 +6345,7 @@ h5 {
 .header .navbar-default .navbar-nav > .active > a:hover,
 .header .navbar-default .navbar-nav > .active > a:focus {
   color: #FFFFFF;
-  background-color: rgba(255, 85, 93, 0.85);
+  background-color: rgba(105, 145, 172, 0.45);
 }
 .header .dropdown-menu {
   background-color: rgba(30, 30, 30, 0.85);
@@ -6368,7 +6368,7 @@ h5 {
 .artist-text h5 {
   text-transform: uppercase;
   margin-top: 0px;
-  color: #ff555d;
+  color: #6991ac;
   letter-spacing: 1px;
   background: #FFFFFF;
   padding: 10px 20px;
@@ -6388,7 +6388,7 @@ h5 {
 }
 .artist-button a {
   padding: 10px 20px;
-  background: #ff555d;
+  background: #6991ac;
   display: inline-block;
   color: #FFF;
 }
@@ -6405,7 +6405,7 @@ h5 {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #ff555d;
+  color: #6991ac;
 }
 .past-dates li {
   margin-bottom: 5px;
@@ -6427,4 +6427,18 @@ h5 {
 }
 .soundcloud {
   margin-bottom: 10px;
+}
+.gallery li {
+  margin: 10px 10px 10px 0px;
+  -moz-opacity: 0.5;
+  -khtml-opacity: 0.5;
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+  filter: alpha(opacity=50);
+  float: left;
+  width: 50px;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 }

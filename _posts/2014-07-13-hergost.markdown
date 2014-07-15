@@ -1,0 +1,44 @@
+---
+layout: artist
+title:  "Her Gost"
+categories: artist
+images:
+- hergost-banner.jpg
+video:
+- <iframe src="//player.vimeo.com/video/39658258?title=0&amp;byline=0&amp;portrait=0&amp;color=ff555d" width="212" height="119" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+soundcloud:
+press-kit: bogus.zip 
+past-dates:
+- London, BFI Southbank - December 7, 2012
+- Bristol, Arnolfini - November 1, 2012 
+- Montreal, Mutek Festival - June 1, 2012 
+- Berlin, Apocalypse Now (and Then), Hau 2 - May 3, 2012 
+- Prague, Lunchmeat Festival - March 21, 2012
+- Krakow. Unsound Festival - October 14, 2011
+---
+
+###HER GHOST
+
+**A tribute to Chris Marker's La Jetee by Kode9, MFO, Ms. Haptic and Lucy Benson**
+
+Her Ghost: An Homage to Chris Marker’s La Jetée is an on-going collaborative film-sound performance project between DJ and sound designer Kode9 (Steve Goodman, UK), visual artists Marcel Weber (MFO, DE) and Lucy Benson (AU), and researcher/lecturer/performer, Ms.Haptic (Jessica Edwards, UK), that significantly re-works, both aurally and visually, Marker’s science fiction film-photo-essay original (1962).
+
+50 years from the premiere of Chris Marker’s science fiction anomaly, Her Ghost refracts the original script, so that it now sheds light onto the previously obscured figure of the woman.  Drawing from the stills, narrative and soundscape of the original film, Her Ghost suggestively recasts, further complicates and asks difficult questions of its ‘parent’. It is performed live, but off-stage, amidst its audience. Each iteration of the project produces a fractionally different mutation of the film. Her Ghost was originally commissioned by Unsound Festival and first performed in Krakow, Poland in October 2011.
+
+- - - 
+
+#####THE PRESS ON HER GHOST
+
+*Something between a tribute, a remake, and a singular, standalone piece, Her Ghost radically reworks Marker’s original film into a far darker, steadfastly unsentimental yet sublime assault on the senses.*  
+**Fact Magazine**
+
+*The gritty processed photography and illustration, Kode9′s rumbling sound design and the straight up gravitas of Ms. Haptic’s live narration made for a super-engaging performance that actually spoke to film as a medium rather than simply appropriating stylistic conventions from it.*   
+**Creativeapplications.net**
+
+*The team’s decision to make a more emotional, abstract work out of the events described in La Jetée is a triumph of multimedia performance.*   
+**Arcfinity**
+
+*Her Ghost isn't just an exhumation of a cultural artifact, polished and presented to a new generation of film students; it's a painstaking decoding, and you could say, a purposefully unravelled mess, reassembled in a format that in some strange way brings that “fateful” day on the jetty into another future.*   
+**Motherboard**
+
+[www.herghost.wordpress.com/](http://herghost.wordpress.com/)

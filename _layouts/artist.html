@@ -47,18 +47,14 @@ layout: default
 
 
     
-    	<div class="row">
+    	<div class="row" >
     		{% if page.gallery[0] != null %}
-	      <div class="col-lg-6 col-sm-4 col-xs-6"><a title="{{page.title}}" href="#"><img class="thumbnail img-responsive" src="/assets/img/artists/{{page.gallery[0]}}.jpg"></a></div>
+    		{% for gallery in page.gallery %}
+	      <div class="col-lg-6 col-sm-4 col-xs-6 brick"><a title="{{page.title}}" href="#"><img class="thumbnail img-responsive" src="/assets/img/artists/{{gallery}}.jpg"></a></div>
+	      {% endfor %}
 	      {% endif %}
 
-	       {% if page.gallery[1] != null %}
-	      <div class="col-lg-6 col-sm-4 col-xs-6"><a title="{{page.title}}" href="#"><img class="thumbnail img-responsive" src="/assets/img/artists/{{page.gallery[1]}}.jpg"></a></div>
-	      {% endif %}
-	      {% if page.gallery[2] != null %}
-	      <div class="col-lg-6 col-sm-4 col-xs-6"><a title="{{page.title}}" href="#"><img class="thumbnail img-responsive" src="/assets/img/artists/{{page.gallery[2]}}.jpg"></a>
-	      </div>
-	      {% endif %}
+	      
     </div>
 
 
@@ -72,13 +68,11 @@ layout: default
 	<div class="modal-body">
 		<div id="modalCarousel" class="carousel">
           <div class="carousel-inner"></div>
-          <a class="carousel-control left" href="#modaCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
-          <a class="carousel-control right" href="#modalCarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
+          <a class="carousel-control left" href="#modaCarousel" data-slide="prev">«</span></a>
+          <a class="carousel-control right" href="#modalCarousel" data-slide="next">»</span></a>
         </div>
 	</div>
-	<div class="modal-footer">
-		<button class="btn btn-default" data-dismiss="modal">Close</button>
-	</div>
+	
    </div>
   </div>
 </div>
@@ -128,5 +122,7 @@ $('.row .thumbnail').click(function(){
     $('#modalCarousel').carousel(id); // slide carousel to selected
   	
 });
+
+
 </script>
 

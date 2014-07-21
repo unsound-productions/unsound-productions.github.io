@@ -1,0 +1,33 @@
+---
+layout: artist
+title:  "Sólaris"
+categories: artist
+images:
+- solaris-banner.jpg
+video:
+- <iframe src="//player.vimeo.com/video/30806639?title=0&amp;byline=0&amp;portrait=0&amp;color=ff555d" width="212" height="119" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+soundcloud:
+press-kit: bogus.zip 
+past-dates:
+- Adelaide, Adelaide Arts Festival - March 15, 2013
+- Reykjavík, Iceland Airwaves Music Festival - Nov 3, 2012
+- The Hague, Todays Art Festival - Sept 21, 2012
+- Brussels, Bozar Center For Fine Arts - Sept 20, 2012
+- Berlin, Volksbühne Theatre - Sept 19, 2012
+- Budapest, Béla Bartók National Theatre - May 17, 2012
+- Reykjavík, Reykjavík Arts Festival - June 4, 2011
+- Krems, Donau Festival - April 29, 2011
+- New York, Unsound Festival New York, Alice Tully Hall at Lincoln Center - April 7, 2011
+- Krakow, Unsound - October 24, 2012, World Premiere
+---
+
+###SÓLARIS
+
+**Ben Frost & Daniel Bjarnason with Sinfonietta Cracovia, film manipulations by Brian Eno & Nick Robertson**
+
+The power of Andrei Tarkovsky’s Solaris is not in its futuristic sets, or in the hypnotic shots of the alien planet’s fluid surface, but in the way the film juxtaposes his alien, futuristic elements against the intimately familiar. This is a future not just of flashing lights and video screens, but of wood and wool and leather, of dogs and horses, books and photographs. In Frost & Bjarnason’s SÓLARIS we do find the futuristic, gaseous atmospheres and pulses one might expect from a sci-fi soundtrack. Yet here they are carved instead from the warm, fragile sonorities of a string orchestra - Poland’s Sinfonietta Cracovia - a gently prepared piano whose harmonies warp and melt before transforming again— and waves upon waves of guitar.
+
+Created through a unique series of processes, Frost & Bjarnason’s initial sketches —improvised to the film— were fed through software designed to correct music which tried to turn their dense and distorted sonic input into a digital sequence of raw musical data. Working from data riddled with error and misunderstanding, a human score was orchestrated, the whole process deftly mirroring the core of the film’s own narrative of memory and loss, alien doppelgängers and emotional feedback loops. Brian Eno —who consulted closely in the creation of SÓLARIS— also used the same film to create a video accompaniment to this music in another strange loop of computer-generated distortion.
+
+*SÓLARIS* was commissioned by Unsound in 2010, when it was also recorded as an album an released by Bedroom Community. The project has been presented in New York (at the Alice Tully Hall at Lincoln Center), Berlin, Reykjavik, Budapest, Brussels, The Hague, Krems and most recently in Adelaide, at the 2013 Adelaide Arts Festival.
+

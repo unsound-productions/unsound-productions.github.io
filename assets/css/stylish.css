@@ -6322,7 +6322,7 @@ h5 {
   background-image: none;
 }
 .header {
-  background: rgba(180, 180, 180, 0.3);
+  background: rgba(245, 245, 245, 0.95);
 }
 .header .navbar {
   position: relative;
@@ -6499,12 +6499,6 @@ h5 {
 }
 .modal-dialog {
   width: 800px;
-}
-.modal-body {
-  padding: 0px;
-}
-.modal-body .thumbnail {
-  margin: 0px;
 }
 .modal-body .carousel-control {
   font-family: 'Karla', sans-serif;

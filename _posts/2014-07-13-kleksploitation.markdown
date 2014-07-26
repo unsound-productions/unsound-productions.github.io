@@ -11,6 +11,9 @@ past-dates:
 - Barbican, London - 17 March, 2013
 - Unsound Festival, Krakow - 16 October, 2012 
 gallery:
+home:
+- kleksploitation-home.jpg
+- kleksploitation-home-c.jpg
 ---
 
 ###ANDY VOTEL PRESENTS: KLEKSPLOITATION

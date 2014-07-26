@@ -19,6 +19,9 @@ past-dates:
 - Krems, Donau Festival - April 29, 2011
 - New York, Unsound Festival New York, Alice Tully Hall at Lincoln Center - April 7, 2011
 - Krakow, Unsound - October 24, 2012, World Premiere
+home:
+- solaris-home.jpg
+- solaris-home-c.jpg
 ---
 
 ###SÓLARIS

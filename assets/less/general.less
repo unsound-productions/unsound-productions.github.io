@@ -64,3 +64,67 @@ border-radius: 0px;
   background-image:none;
 }
 
+.artists-bookings {
+	li {margin-bottom: 30px;}
+
+	li img {
+	}
+
+	a {
+		color: #ffffff;
+	}
+
+	a:hover {
+		color:  transparent; 
+		text-shadow: 0px 1px 0px  rgba(0, 0, 0, 0.35); 
+
+	}
+
+	h1 {
+		position: absolute;
+		z-index: 2;
+		font-family: 'Raleway', sans-serif;
+		font-size: 28px;
+		line-height: 28px;
+		letter-spacing: -1px;
+		font-weight: 100;
+		padding: 20px 211px 20px 20px;
+		margin: 0px;
+		word-break:break-all;
+	}
+
+	.real-img {
+		position: absolute;
+		z-index: 0;
+		width:90.33333333%;
+		@media (max-width: @screen-xs-max) {width:92.999999%;};
+		@media (min-width: @screen-md-min) and (max-width: @screen-md-max) { 
+    		width:92.33333333%;}
+			@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) { 
+					width:89.66666666%;}
+	}
+
+	.blue-img {
+		position: relative;
+		z-index: 1;
+		.transition(@duration:1.5s, @ease:linear);
+		.opacity(@opacity: 1);
+
+		img {
+			-webkit-transition: margin-left 1s ease-in;
+		}
+		
+	}
+
+	.blue-img:hover {
+		.opacity(@opacity: 0);
+		overflow: hidden;
+
+		img {
+			margin-left: -2.5%;
+		}
+
+	}
+}
+
+

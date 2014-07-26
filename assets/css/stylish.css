@@ -6264,12 +6264,13 @@ button.close {
     A set of useful LESS mixins
     More info at: http://lesselements.com
   ---------------------------------------------------*/
+/*@pink: rgb(105, 145, 172);*/
 body {
   background: url('/assets/img/main/concrete_wall_2.png');
   font-family: 'Karla', sans-serif;
 }
 a {
-  color: #6991ac;
+  color: rgba(113, 113, 113, 0.85);
   -webkit-transition: all 0.35s ease-out;
   -moz-transition: all 0.35s ease-out;
   -o-transition: all 0.35s ease-out;
@@ -6339,7 +6340,10 @@ h5 {
   line-height: 28px;
   letter-spacing: -1px;
   font-weight: 100;
-  padding: 20px 211px 20px 20px;
+  width: 77px;
+  padding-left: 15px;
+  padding-top: 15px;
+  height: 100px;
   margin: 0px;
   word-break: break-all;
 }
@@ -6390,7 +6394,7 @@ h5 {
   overflow: hidden;
 }
 .artists-bookings .blue-img:hover img {
-  margin-left: -2.5%;
+  margin-left: -2%;
 }
 .header {
   background: rgba(245, 245, 245, 0.95);
@@ -6407,7 +6411,7 @@ h5 {
   border-color: transparent;
 }
 .header .navbar-default .navbar-nav > li > a {
-  color: #6991ac;
+  color: rgba(113, 113, 113, 0.85);
 }
 .header .navbar-nav > li > a {
   padding-top: 9px;
@@ -6427,7 +6431,7 @@ h5 {
 .header .navbar-default .navbar-nav > li > a:hover,
 .header .navbar-default .navbar-nav > li > a:focus {
   color: #FFFFFF;
-  background-color: #6991ac;
+  background-color: rgba(113, 113, 113, 0.85);
 }
 .header .logo {
   width: 140px;
@@ -6441,7 +6445,7 @@ h5 {
 .header .navbar-default .navbar-nav > .active > a:hover,
 .header .navbar-default .navbar-nav > .active > a:focus {
   color: #FFFFFF;
-  background-color: #6991ac;
+  background-color: rgba(113, 113, 113, 0.85);
 }
 .header .dropdown-menu {
   background-color: rgba(30, 30, 30, 0.85);
@@ -6464,7 +6468,7 @@ h5 {
 .artist-text h5 {
   text-transform: uppercase;
   margin-top: 0px;
-  color: #6991ac;
+  color: rgba(113, 113, 113, 0.85);
   letter-spacing: 1px;
   background: #FFFFFF;
   padding: 10px 20px;
@@ -6484,7 +6488,7 @@ h5 {
 }
 .artist-button a {
   padding: 10px 20px;
-  background: #6991ac;
+  background: rgba(113, 113, 113, 0.85);
   display: inline-block;
   color: #FFF;
 }
@@ -6501,7 +6505,7 @@ h5 {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #6991ac;
+  color: rgba(113, 113, 113, 0.85);
 }
 .past-dates li {
   margin-bottom: 5px;
@@ -6559,7 +6563,7 @@ h5 {
 }
 .modal-header {
   border-bottom: 0px solid #e5e5e5;
-  background: rgba(105, 145, 172, 0.75);
+  background: rgba(113, 113, 113, 0.75);
 }
 .modal-header h3 {
   color: #FFFFFF;
@@ -6602,7 +6606,7 @@ h5 {
 .modal-footer .btn-default {
   font-family: 'Karla', sans-serif;
   color: #ffffff;
-  background-color: #6991ac;
+  background-color: rgba(113, 113, 113, 0.85);
   border: 0px solid #ffffff;
   text-transform: uppercase;
   letter-spacing: 2px;

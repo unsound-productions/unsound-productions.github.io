@@ -15,9 +15,12 @@ past-dates:
 - Prague, Lunchmeat Festival - March 21, 2012
 - Krakow. Unsound Festival - October 14, 2011
 gallery:
-- lumiere-1
-- lumiere-2
-- lumiere-3
+- lumiere-1.jpg
+- lumiere-2.jpg
+- lumiere-3.jpg
+home:
+- lumiere-home.jpg
+- lumiere-home-c.jpg
 ---
 
 ###LUMIÈRE - Robert Henke

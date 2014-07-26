@@ -16,9 +16,12 @@ past-dates:
 - Prague, Lunchmeat Festival - March 21, 2012
 - Krakow. Unsound Festival - October 14, 2011
 gallery:
-- hergost-1
-- hergost-2
-- hergost-3
+- hergost-1.jpg
+- hergost-2.jpg
+- hergost-3.jpg
+home:
+- herghost-home.jpg
+- herghost-home-c.jpg
 ---
 
 ###HER GHOST

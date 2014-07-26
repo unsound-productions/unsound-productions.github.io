@@ -10,6 +10,9 @@ press-kit: bogus.zip
 past-dates:
 - Adelaide Arts Festival - 16 March, 2013
 - Unsound Krakow - 21 October, 2012
+home:
+- concealed-home.jpg
+- concealed-home-c.jpg
 ---
 
 ###Trinity

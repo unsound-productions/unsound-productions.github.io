@@ -16,6 +16,9 @@ past-dates:
 - MUTEK Festival, Montreal - 20 May 2012
 - Communikey Festival, Boulder - 28 April 2012
 - Unsound Festival New York - 21 April 2012
+home:
+- trinity-home.jpg
+- trinity-home-c.jpg
 ---
 
 ###Trinity

@@ -6266,11 +6266,11 @@ button.close {
   ---------------------------------------------------*/
 /*@pink: rgb(105, 145, 172);*/
 body {
-  background: url('/assets/img/main/concrete_wall_2.png');
+  background: url('/assets/img/main/diagmonds_@2X.png');
   font-family: 'Karla', sans-serif;
 }
 a {
-  color: rgba(113, 113, 113, 0.85);
+  color: rgba(113, 113, 113, 0.55);
   -webkit-transition: all 0.35s ease-out;
   -moz-transition: all 0.35s ease-out;
   -o-transition: all 0.35s ease-out;
@@ -6411,7 +6411,7 @@ h5 {
   border-color: transparent;
 }
 .header .navbar-default .navbar-nav > li > a {
-  color: rgba(113, 113, 113, 0.85);
+  color: rgba(113, 113, 113, 0.55);
 }
 .header .navbar-nav > li > a {
   padding-top: 9px;
@@ -6431,7 +6431,7 @@ h5 {
 .header .navbar-default .navbar-nav > li > a:hover,
 .header .navbar-default .navbar-nav > li > a:focus {
   color: #FFFFFF;
-  background-color: rgba(113, 113, 113, 0.85);
+  background-color: rgba(113, 113, 113, 0.55);
 }
 .header .logo {
   width: 140px;
@@ -6445,7 +6445,7 @@ h5 {
 .header .navbar-default .navbar-nav > .active > a:hover,
 .header .navbar-default .navbar-nav > .active > a:focus {
   color: #FFFFFF;
-  background-color: rgba(113, 113, 113, 0.85);
+  background-color: rgba(113, 113, 113, 0.55);
 }
 .header .dropdown-menu {
   background-color: rgba(30, 30, 30, 0.85);
@@ -6468,7 +6468,7 @@ h5 {
 .artist-text h5 {
   text-transform: uppercase;
   margin-top: 0px;
-  color: rgba(113, 113, 113, 0.85);
+  color: rgba(113, 113, 113, 0.55);
   letter-spacing: 1px;
   background: #FFFFFF;
   padding: 10px 20px;
@@ -6488,7 +6488,7 @@ h5 {
 }
 .artist-button a {
   padding: 10px 20px;
-  background: rgba(113, 113, 113, 0.85);
+  background: rgba(113, 113, 113, 0.55);
   display: inline-block;
   color: #FFF;
 }
@@ -6505,7 +6505,7 @@ h5 {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 2px;
-  color: rgba(113, 113, 113, 0.85);
+  color: rgba(113, 113, 113, 0.55);
 }
 .past-dates li {
   margin-bottom: 5px;
@@ -6606,7 +6606,7 @@ h5 {
 .modal-footer .btn-default {
   font-family: 'Karla', sans-serif;
   color: #ffffff;
-  background-color: rgba(113, 113, 113, 0.85);
+  background-color: rgba(113, 113, 113, 0.55);
   border: 0px solid #ffffff;
   text-transform: uppercase;
   letter-spacing: 2px;

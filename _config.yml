@@ -1,6 +1,6 @@
 name: Unsound Productions
 markdown: redcarpet
-pygments: true
+highlighter: true
 
 
 permalink: /:title

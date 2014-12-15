@@ -10,18 +10,18 @@ soundcloud:
 - <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145512564&amp;color=ff555d&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false"></iframe>
 press-kit: bogus.zip 
 past-dates:
-- Adelaide Arts Festival - 14 March 2013
-- Sonic Arts Festival, Amsterdam - 23 Feb 2013
-- Unsound Festival Krakow - 19 Oct 2012
-- MUTEK Festival, Montreal - 20 May 2012
-- Communikey Festival, Boulder - 28 April 2012
-- Unsound Festival New York - 21 April 2012
+- <strong>Adelaide Arts Festival</strong> Adelaide | 14 Mar | 2013
+- <strong>Sonic Arts Festival</strong> Amsterdam | 23 Feb | 2013
+- <strong>Unsound Festival</strong> Krakow | 19 Oct | 2012
+- <strong>MUTEK Festival</strong> Montreal | 20 May | 2012
+- <strong>Communikey Festival</strong> Boulder | 28 April | 2012
+- <strong>Unsound Festival</strong> New York | 21 April | 2012
 home:
 - trinity-home.jpg
 - trinity-home-c.jpg
 ---
 
-###Trinity
+#Trinity
 
 **TRINITY** began life as a collaboration between Lustmord and Biosphere with Berlin video artist Marcel Weber (MFO). 
 

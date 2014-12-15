@@ -9,22 +9,22 @@ video:
 soundcloud:
 press-kit: bogus.zip 
 past-dates:
-- Adelaide, Adelaide Arts Festival - March 15, 2013
-- Reykjavík, Iceland Airwaves Music Festival - Nov 3, 2012
-- The Hague, Todays Art Festival - Sept 21, 2012
-- Brussels, Bozar Center For Fine Arts - Sept 20, 2012
-- Berlin, Volksbühne Theatre - Sept 19, 2012
-- Budapest, Béla Bartók National Theatre - May 17, 2012
-- Reykjavík, Reykjavík Arts Festival - June 4, 2011
-- Krems, Donau Festival - April 29, 2011
-- New York, Unsound Festival New York, Alice Tully Hall at Lincoln Center - April 7, 2011
-- Krakow, Unsound - October 24, 2012, World Premiere
+- <strong>Adelaide Arts Festival</strong> Adelaide | 15 Mar | 2013
+- <strong>Iceland Airwaves Music Festival</strong> Reykjavík | 3 Nov | 2012
+- <strong>Todays Art Festival</strong>The Hague | 21 Sep | 2012
+- <strong>Bozar Center For Fine Arts</strong>Brussels | 20 Sep | 2012
+- <strong>Volksbühne Theatre</strong>Berlin | 19 Sep | 2012
+- <strong>Béla Bartók National Theatre</strong>Budapest | 17 May | 2012
+- <strong>Reykjavík Arts Festival</strong>Reykjavík | 4 Jun | 2011
+- <strong>Donau Festival</strong>Krems | 29 Apr | 2011
+- <strong>Unsound Festival New York | Alice Tully Hall at Lincoln Center</strong> New York | 7 Apr | 2011
+- <strong>Unsound Festival</strong>Krakow | 24 Oct | 2012 | World Premiere
 home:
 - solaris-home.jpg
 - solaris-home-c.jpg
 ---
 
-###SÓLARIS
+#SÓLARIS
 
 **Ben Frost & Daniel Bjarnason with Sinfonietta Cracovia, film manipulations by Brian Eno & Nick Robertson**
 

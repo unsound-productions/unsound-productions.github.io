@@ -1,29 +1,30 @@
 ---
 layout: artist
-title:  "Lumiere"
+title:  "Her Gost"
 categories: artist
 images:
-- lumiere-banner.jpg
+- hergost-banner.jpg
 video:
+- <iframe src="//player.vimeo.com/video/39658258?title=0&amp;byline=0&amp;portrait=0&amp;color=ff555d" width="212" height="119" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 soundcloud:
 press-kit: bogus.zip 
 past-dates:
-- London, BFI Southbank - December 7, 2012
-- Bristol, Arnolfini - November 1, 2012 
-- Montreal, Mutek Festival - June 1, 2012 
-- Berlin, Apocalypse Now (and Then), Hau 2 - May 3, 2012 
-- Prague, Lunchmeat Festival - March 21, 2012
-- Krakow. Unsound Festival - October 14, 2011
+- <strong>BFI Southbank</strong> London | Dec | 2012
+- <strong>Arnolfini</strong> Bristol | 1 Nov  | 2012 
+- <strong>Mutek Festival</strong> Montreal | 1 Jun | 2012 
+- <strong>Apocalypse Now (and Then), Hau 2</strong> Berlin | 3 May | 2012 
+- <strong>Lunchmeat Festival</strong> Prague | 21 Mar | 2012
+- <strong>Unsound Festival</strong> Krakow | 14 Oct | 2011
 gallery:
-- lumiere-1.jpg
-- lumiere-2.jpg
-- lumiere-3.jpg
+- hergost-1.jpg
+- hergost-2.jpg
+- hergost-3.jpg
 home:
-- lumiere-home.jpg
-- lumiere-home-c.jpg
+- herghost-home.jpg
+- herghost-home-c.jpg
 ---
 
-###LUMIÈRE - Robert Henke
+#HER GHOST
 
 **A tribute to Chris Marker's La Jetee by Kode9, MFO, Ms. Haptic and Lucy Benson**
 

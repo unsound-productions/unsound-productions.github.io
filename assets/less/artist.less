@@ -1,9 +1,9 @@
 .artist-text {
 
-		h3, h4, h5 {
+		h1, h2, h3, h4, h5 {
 			text-transform: uppercase;
 			margin-top: 0px;
-			color: @pink;
+			color: @link;
 			letter-spacing: 1px;
 			background: #FFFFFF;
 			padding: 10px 20px;
@@ -12,6 +12,10 @@
 
 		}
 
+		h1, h2 {
+			font-family: 'Raleway', sans-serif;
+			font-weight: 200;
+		}
 
 
 		p {
@@ -35,9 +39,11 @@
 
 	a {
 		padding: 10px 20px;
-		background: @pink;
+		background: @link;
 		display: inline-block;
 		color: #FFF;
+		font-family: 'Raleway', sans-serif;
+			font-weight: 200;
 			}
 
 	a:hover {
@@ -47,23 +53,30 @@
 }
 
 .past-dates {
-					margin-bottom: 10px;
-
-
-		padding: 10px 20px;
+		
+		margin-bottom: 10px;
+		font-size: 11.5px;
+		padding: 18px 20px 10px 20px;
 		background: #FFFFFF;
+		line-height: 17px;
 
 		h5 {
 			text-transform: uppercase;
 		font-weight: 700;
 		letter-spacing: 2px;
-				color: @pink;
+				color: @link;
 		}
 
 		li {
-			margin-bottom: 5px;
+			margin-bottom: 8px;
 		}
 
+		strong {
+			text-transform: uppercase;
+			font-size: 95%;
+			letter-spacing: 1px;	
+			display: block;
+			line-height: 15px;	}
 }
 
 .video {

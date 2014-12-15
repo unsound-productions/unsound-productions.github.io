@@ -8,15 +8,15 @@ video:
 soundcloud:
 press-kit: bogus.zip 
 past-dates:
-- Barbican, London - 17 March, 2013
-- Unsound Festival, Krakow - 16 October, 2012 
+- <strong>Barbican </strong> London | 17 Mar | 2013
+- <strong> Unsound Festival </strong> Krakow | 16 Oct | 2012 
 gallery:
 home:
 - kleksploitation-home.jpg
 - kleksploitation-home-c.jpg
 ---
 
-###ANDY VOTEL PRESENTS: KLEKSPLOITATION
+#ANDY VOTEL PRESENTS: KLEKSPLOITATION
 
 A homage to Pan Kleks, a Polish trilogy of films for children from the 1980s, loved by Poland's children from that era. Electronic musician, DJ and music producer Andy Votel draws on images, music and sound from the original films, selecting and subverting, to coax their darker side to the surface and create something wholly original, unsettling and - at times - weirdly humorous.
 

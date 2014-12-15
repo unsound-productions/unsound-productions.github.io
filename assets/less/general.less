@@ -1,17 +1,20 @@
 body {
-	background: url('/assets/img/main/diagmonds_@2X.png');
-	font-family: 'Karla', sans-serif;
+	background: url('/assets/img/main/checkered_pattern.png');
+	font-family: 'Raleway', sans-serif;
+	color: @body;
+	font-size: 12px;
+	line-height: 19px;
 }
 
 
 
 a {
-	color: @pink;
+	color: @link;
 	.transition(@duration:0.35s, @ease:ease-out);
 	text-transform: uppercase;
 		font-weight: 700;
 		letter-spacing: 2px;
-		font-size: 13px;
+		font-size: 10px;
 
 }
 
@@ -31,14 +34,39 @@ h5 {
 	font-size: 13px;
 }
 
+h1, h2 {
+			font-weight: 100;
+		}
+
 .cont {
 	background: @fundo;
-	padding-top: 60px;
+	padding-top: 40px;
 	padding-bottom: 60px;
-
-		
+	border-top:5px solid #000;		
 }
 
+.news {
+	
+
+	li {
+		margin-bottom: 30px;
+	}
+
+	h4, h6 {
+		margin-top: 0px;
+		font-weight: 200;
+		text-transform: uppercase;
+	}
+}
+
+
+.section-title {
+	text-transform: uppercase;
+	font-size: 160%;
+	padding-bottom: 10px;
+border-bottom: 1px solid rgba(65, 65, 65, 0.25);
+margin-bottom: 0px;
+}
 
 .modal-dialog {}
 .thumbnail {margin:20px 0px 10px 0px;
@@ -99,35 +127,51 @@ border-radius: 0px;
 	.real-img {
 		position: absolute;
 		z-index: 0;
-		width:90.33333333%;
-		@media (max-width: @screen-xs-max) {width:92.999999%;};
-		@media (min-width: @screen-md-min) and (max-width: @screen-md-max) { 
-    		width:92.33333333%;}
-			@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) { 
-					width:89.66666666%;}
+
 	}
 
 	.blue-img {
 		position: relative;
 		z-index: 1;
-		.transition(@duration:1.5s, @ease:linear);
+		.transition(@duration:0.5s, @ease:linear);
 		.opacity(@opacity: 1);
 
 		img {
-			-webkit-transition: margin-left 1s ease-in;
+			
 		}
 		
 	}
 
 	.blue-img:hover {
-		.opacity(@opacity: 0);
+		.opacity(@opacity: 0.25);
 		overflow: hidden;
 
 		img {
-			margin-left: -2%;
+			
 		}
 
 	}
 }
 
+
+.carousel {
+  .item {
+    left: 0 !important;
+    .transition(opacity 8s); //adjust timing here
+  }
+  .carousel-control {
+    background-image: none; // remove background gradients on controls
+  }
+  // Fade controls with items
+  .next.left,
+  .prev.right {
+    opacity: 1;
+    z-index: 1;
+  }
+  .active.left,
+  .active.right {
+    opacity: 0;
+    z-index: 2;
+  }
+}
 

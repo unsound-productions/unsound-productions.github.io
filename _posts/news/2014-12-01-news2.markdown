@@ -1,7 +1,7 @@
 ---
-layout: news
+layout: text
 title:  "Trinity Playing at Unsound Festival"
-categories: news
+category: news
 front-date: oct 2014
 
 ---

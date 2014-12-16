@@ -1,7 +1,7 @@
 ---
-layout: news
+layout: text
 title:  "Sólaris Playing at Unsound Festival"
-categories: news
+category: news
 front-date: may 2014
 
 ---

@@ -6268,7 +6268,7 @@ button.close {
 body {
   background: url('/assets/img/main/checkered_pattern.png');
   font-family: 'Raleway', sans-serif;
-  color: rgba(45, 45, 45, 0.75);
+  color: rgba(35, 35, 35, 0.75);
   font-size: 12px;
   line-height: 19px;
 }
@@ -6285,7 +6285,7 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color: #787878;
+  color: #969696;
 }
 ul {
   list-style-type: none;
@@ -6301,7 +6301,7 @@ h2 {
 }
 .cont {
   background: rgba(225, 225, 225, 0.9);
-  padding-top: 40px;
+  padding-top: 60px;
   padding-bottom: 60px;
   border-top: 5px solid #000;
 }
@@ -6313,6 +6313,16 @@ h2 {
   margin-top: 0px;
   font-weight: 200;
   text-transform: uppercase;
+}
+.news h4 a,
+.news h6 a {
+  font-size: 100%;
+  font-weight: 200;
+  color: #000;
+}
+.news h4 a:hover,
+.news h6 a:hover {
+  color: #969696;
 }
 .section-title {
   text-transform: uppercase;
@@ -6421,6 +6431,13 @@ h2 {
   opacity: 0;
   z-index: 2;
 }
+.txt {
+  margin-top: 30px;
+}
+.txt p {
+  padding: 10px 20px;
+  background: #FFFFFF;
+}
 .header {
   background: rgba(225, 225, 225, 0.9);
 }
@@ -6440,6 +6457,10 @@ h2 {
 }
 .header .navbar-default .navbar-nav > li > a {
   color: rgba(20, 20, 20, 0.8);
+}
+.header .navbar-default .navbar-nav > li > a.active {
+  color: #FFFFFF;
+  background-color: rgba(20, 20, 20, 0.8);
 }
 .header .navbar-nav > li > a {
   padding-top: 9px;
@@ -6562,7 +6583,7 @@ h2 {
 }
 .artist-button a:hover {
   background: #FFFFFF;
-  color: #787878;
+  color: #969696;
 }
 .past-dates {
   margin-bottom: 10px;

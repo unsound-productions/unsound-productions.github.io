@@ -1,7 +1,7 @@
 ---
 layout: artist
 title:  "Concealed"
-categories: artist
+category: artist
 images:
 - concealed-banner.jpg
 video:

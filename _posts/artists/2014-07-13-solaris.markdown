@@ -1,7 +1,7 @@
 ---
 layout: artist
 title:  "Sólaris"
-categories: artist
+category: artist
 images:
 - solaris-banner.jpg
 video:

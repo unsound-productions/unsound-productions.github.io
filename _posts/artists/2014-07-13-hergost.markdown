@@ -1,7 +1,7 @@
 ---
 layout: artist
 title:  "Her Gost"
-categories: artist
+category: artist
 images:
 - hergost-banner.jpg
 video:

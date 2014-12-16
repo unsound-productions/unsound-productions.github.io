@@ -1,7 +1,7 @@
 ---
-layout: news
+layout: text
 title:  "Concelead Playing at Unsound Festival"
-categories: news
+category: news
 front-date: jan 2014
 
 ---

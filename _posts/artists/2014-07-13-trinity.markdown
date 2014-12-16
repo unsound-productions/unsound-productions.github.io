@@ -1,7 +1,7 @@
 ---
 layout: artist
 title:  "Trinity"
-categories: artist
+category: artist
 images:
 - trinity-banner.jpg
 video:

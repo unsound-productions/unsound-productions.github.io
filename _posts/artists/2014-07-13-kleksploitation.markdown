@@ -1,7 +1,7 @@
 ---
 layout: artist
 title:  "Kleksploitation"
-categories: artist
+category: artist
 images:
 - kleksploitation-banner.jpg
 video:

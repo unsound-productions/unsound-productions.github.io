@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic|Karla:400,400italic,700,700italic|Raleway:400,800,900,700,600,500,300,200,100);
+@import "../css/style.css";
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -6297,7 +6298,7 @@ h5 {
 }
 h1,
 h2 {
-  font-weight: 100;
+  font-weight: 300;
 }
 .cont {
   background: rgba(225, 225, 225, 0.9);
@@ -6317,7 +6318,7 @@ h2 {
 .news h4 a,
 .news h6 a {
   font-size: 100%;
-  font-weight: 200;
+  font-weight: 300;
   color: #000;
 }
 .news h4 a:hover,
@@ -6328,7 +6329,7 @@ h2 {
   text-transform: uppercase;
   font-size: 160%;
   padding-bottom: 10px;
-  border-bottom: 1px solid rgba(65, 65, 65, 0.25);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
   margin-bottom: 0px;
 }
 .thumbnail {
@@ -6513,6 +6514,28 @@ h2 {
 .header .logo {
   width: 140px;
 }
+.header .logo .newsletter {
+  margin: auto;
+  text-transform: uppercase;
+}
+.header .logo .newsletter a {
+  display: block;
+  float: right;
+  padding-top: 9px;
+  padding-left: 10px;
+  cursor: pointer;
+}
+.header .logo .newsletter a.fs1 {
+  font-size: 160%;
+}
+.header .logo .newsletter a.fa-facebook {
+  font-size: 120%;
+  padding-top: 11px;
+}
+.header .logo .newsletter a.fa-twitter {
+  font-size: 120%;
+  padding-top: 11px;
+}
 .header .inner-logo {
   position: absolute;
   top: 38px;
@@ -6571,21 +6594,38 @@ h2 {
   margin: 20px 0px;
 }
 .artist-button {
-  margin-bottom: 10px;
+  margin-bottom: 7px;
+  float: left;
+  margin-right: 4px;
 }
 .artist-button a {
-  padding: 10px 20px;
+  padding: 7px 14px;
   background: rgba(20, 20, 20, 0.8);
   display: inline-block;
   color: #FFF;
   font-family: 'Raleway', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
+}
+.artist-button a.social {
+  background: #969696;
 }
 .artist-button a:hover {
   background: #FFFFFF;
-  color: #969696;
+  color: rgba(20, 20, 20, 0.8);
+}
+.artist-xtra a.fa {
+  height: 45px;
+  width: 45px;
+  text-align: center;
+  font-size: 175%;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  background: rgba(20, 20, 20, 0.8);
+  color: #FFF;
+  padding-top: 12px;
 }
 .past-dates {
+  margin-top: 20px;
   margin-bottom: 10px;
   font-size: 11.5px;
   padding: 18px 20px 10px 20px;

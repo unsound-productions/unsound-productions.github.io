@@ -17,9 +17,23 @@ layout: default
 
 			</div>
 
-			<div class="col-lg-4 col-lg-offset-1">
-									<div class="artist-button"><a href="#">Book {{ page.title }}</a></div>
-													<div class="artist-button"><a href="/downloads/press-kit/{{ press-kit.page }}" target="_blank">Download press-kit</a></div>
+			<div class="col-lg-4 col-lg-offset-1 artist-xtra">
+										
+
+				<div class="artist-button"><a href="#">Book {{ page.title }}</a></div>
+				
+				<div class="artist-button"><a href="/downloads/press-kit/{{ press-kit.page }}" target="_blank"> press-pic</a>
+				</div>
+<div class="clearfix"></div>
+				<div class="artist-button social"><a href="#" target="_blank" class="social">Facebook</a>
+				</div>
+
+				<div class="artist-button social"><a href="#" target="_blank" class="social">Twitter</a>
+				</div>
+
+				<div class="artist-button social"><a href="#" target="_blank" class="social">Soundcloud</a>
+				</div>
+<div class="clearfix"></div>
 
 				{% if page.video != null %}
 				<div class='video'>{{ page.video[0] }}</div>
@@ -31,7 +45,15 @@ layout: default
 				
 	<div class="clearfix"></div>
 
+					<h2 class="section-title">// Upcoming Dates </h2>
 					<div class="past-dates">
+					</div>
+
+	<div class="clearfix"></div>
+
+					<h2 class="section-title">// Past Dates </h2>
+					<div class="past-dates">
+
 						<ul>
 						{% for dates in page.past-dates %}
 						    <li>{{ dates }}</li>

@@ -6751,3 +6751,9 @@ h2 {
   font-size: 10.5px;
   font-weight: 700;
 }
+#swipebox-caption {
+  text-transform: uppercase;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-size: 11.5px;
+  letter-spacing: 2px;
+}

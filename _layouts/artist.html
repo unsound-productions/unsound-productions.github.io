@@ -19,92 +19,72 @@ layout: default
 
 			<div class="col-lg-4 col-lg-offset-1 artist-xtra">
 										
-
-				<div class="artist-button"><a href="#">Book {{ page.title }}</a></div>
-				
-				<div class="artist-button"><a href="/downloads/press-kit/{{ press-kit.page }}" target="_blank"> press-pic</a>
-				</div>
-<div class="clearfix"></div>
-				<div class="artist-button social"><a href="#" target="_blank" class="social">Facebook</a>
-				</div>
-
-				<div class="artist-button social"><a href="#" target="_blank" class="social">Twitter</a>
-				</div>
-
-				<div class="artist-button social"><a href="#" target="_blank" class="social">Soundcloud</a>
-				</div>
-<div class="clearfix"></div>
-
-				{% if page.video != null %}
-				<div class='video'>{{ page.video[0] }}</div>
-				{% endif %}
-				{% if page.soundcloud != null %}
-				<div class='soundcloud'>{{ page.soundcloud[0] }}</div>
-				{% endif %}
-
-				
-	<div class="clearfix"></div>
-
-					<h2 class="section-title">// Upcoming Dates </h2>
-					<div class="past-dates">
+					<div class="artist-button">
+						<a href="#">Book {{ page.title }}</a>
+					</div>
+						
+					<div class="artist-button">
+						<a href="/downloads/press-kit/{{ press-kit.page }}" target="_blank"> Press</a>
 					</div>
 
-	<div class="clearfix"></div>
+				<div class="clearfix"></div>
+				
+					<div class="artist-button social">
+						<a href="#" target="_blank" class="social">Facebook</a>
+					</div>
+
+					<div class="artist-button social">
+						<a href="#" target="_blank" class="social">Twitter</a>
+					</div>
+
+					<div class="artist-button social">
+						<a href="#" target="_blank" class="social">Soundcloud</a>
+					</div>
+
+				<div class="clearfix"></div>
+
+						{% if page.video != null %}
+					<div class='video'>
+						{{ page.video[0] }}</div>
+						{% endif %}
+
+						{% if page.soundcloud != null %}
+					<div class='soundcloud'>
+						{{ page.soundcloud[0] }}</div>
+						{% endif %}
+		
+				<div class="clearfix"></div>
+
+					<h2 class="section-title">// Upcoming Dates </h2>
+					<div class="past-dates"></div>
+
+				<div class="clearfix"></div>
 
 					<h2 class="section-title">// Past Dates </h2>
 					<div class="past-dates">
-
 						<ul>
-						{% for dates in page.past-dates %}
-						    <li>{{ dates }}</li>
-						{% endfor %}						
-					</ul>
+							{% for dates in page.past-dates %}
+							    <li>{{ dates }}</li>
+							{% endfor %}						
+						</ul>
+					</div>
 
-
-
-
+				<div class="row" >
+					{% if page.gallery[0] != null %}
+					{% for gallery in page.gallery %}
+				      <div class="col-lg-6 col-sm-4 col-xs-6 brick">
+					      	<a title="{{page.title}}" class="swipebox" href="/assets/img/artists/{{gallery}}">
+					      		<img class="thumbnail img-responsive" alt="{{page.title}}" src="/assets/img/artists/{{gallery}}">
+					      	</a>
+				      </div>
+				    {% endfor %}
+				    {% endif %}
 				</div>
-
-
-
-    
-    	<div class="row" >
-    		{% if page.gallery[0] != null %}
-    		{% for gallery in page.gallery %}
-	      <div class="col-lg-6 col-sm-4 col-xs-6 brick"><a title="{{page.title}}" href="#"><img class="thumbnail img-responsive" src="/assets/img/artists/{{gallery}}"></a></div>
-	      {% endfor %}
-	      {% endif %}
-
-	      
-    </div>
-
-
-<div class="modal" id="myModal" role="dialog">
-  <div class="modal-dialog">
-  <div class="modal-content">
-	<div class="modal-header">
-		<button class="close" type="button" data-dismiss="modal">×</button>
-		<h3 class="modal-title"></h3>
-	</div>
-	<div class="modal-body">
-		<div id="modalCarousel" class="carousel">
-          <div class="carousel-inner"></div>
-          <a class="carousel-control left" href="#modaCarousel" data-slide="prev">«</span></a>
-          <a class="carousel-control right" href="#modalCarousel" data-slide="next">»</span></a>
-        </div>
-	</div>
-	
-   </div>
-  </div>
-</div>
- 
-
-
 			</div>
-			<div class="clearfix"></div>
+
+				<div class="clearfix"></div>
 
 		</div>
-
 	</div>
 </div>
 
